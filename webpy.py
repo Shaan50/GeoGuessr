@@ -11,7 +11,7 @@ def change_pos(lat,long,score=0):
     <html>
     <head>
     <title>Draggable Street View</title>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmMGjDepGn47mC7CdF_qakfGZqQ2Liy1k&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
     <style>
         #street-view-pano {
 
